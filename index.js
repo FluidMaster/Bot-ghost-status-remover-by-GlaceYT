@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAY...","Dungeon Masters⭐"];
+const statusMessages = ["The best HylexMC guild:","勝利 - SHORI 🌍"];
 
 
 let currentIndex = 0;
